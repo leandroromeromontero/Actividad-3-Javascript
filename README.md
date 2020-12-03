@@ -1,2 +1,2 @@
-# Actividad-4-Javascript
-Actividad N° 4 del trayecto Fullstack Developer de ISPC
+# Actividad-3-Javascript
+Actividad N° 3 del trayecto Fullstack Developer de ISPC
